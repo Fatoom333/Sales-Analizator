@@ -1,0 +1,17 @@
+C:\Users\wolfy\RiderProjects\Project_4\CbrApi\bin\Debug\net8.0\CbrApi.deps.json
+C:\Users\wolfy\RiderProjects\Project_4\CbrApi\bin\Debug\net8.0\CbrApi.dll
+C:\Users\wolfy\RiderProjects\Project_4\CbrApi\bin\Debug\net8.0\CbrApi.pdb
+C:\Users\wolfy\RiderProjects\Project_4\CbrApi\bin\Debug\net8.0\ExceptionHandler.dll
+C:\Users\wolfy\RiderProjects\Project_4\CbrApi\bin\Debug\net8.0\GetUserInput.dll
+C:\Users\wolfy\RiderProjects\Project_4\CbrApi\bin\Debug\net8.0\ExceptionHandler.pdb
+C:\Users\wolfy\RiderProjects\Project_4\CbrApi\bin\Debug\net8.0\GetUserInput.pdb
+C:\Users\wolfy\RiderProjects\Project_4\CbrApi\obj\Debug\net8.0\CbrApi.csproj.AssemblyReference.cache
+C:\Users\wolfy\RiderProjects\Project_4\CbrApi\obj\Debug\net8.0\CbrApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wolfy\RiderProjects\Project_4\CbrApi\obj\Debug\net8.0\CbrApi.AssemblyInfoInputs.cache
+C:\Users\wolfy\RiderProjects\Project_4\CbrApi\obj\Debug\net8.0\CbrApi.AssemblyInfo.cs
+C:\Users\wolfy\RiderProjects\Project_4\CbrApi\obj\Debug\net8.0\CbrApi.csproj.CoreCompileInputs.cache
+C:\Users\wolfy\RiderProjects\Project_4\CbrApi\obj\Debug\net8.0\CbrApi.csproj.Up2Date
+C:\Users\wolfy\RiderProjects\Project_4\CbrApi\obj\Debug\net8.0\CbrApi.dll
+C:\Users\wolfy\RiderProjects\Project_4\CbrApi\obj\Debug\net8.0\refint\CbrApi.dll
+C:\Users\wolfy\RiderProjects\Project_4\CbrApi\obj\Debug\net8.0\CbrApi.pdb
+C:\Users\wolfy\RiderProjects\Project_4\CbrApi\obj\Debug\net8.0\ref\CbrApi.dll

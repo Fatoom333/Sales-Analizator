@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ztR9vBXoYgk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wolfy\\RiderProjects\\Project_4\\GetUserInput\\GetUserInput.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wolfy\\.nuget\\packages\\spectre.console\\0.49.2-preview.0.76\\spectre.console.0.49.2-preview.0.76.nupkg.sha512"
+  ],
+  "logs": []
+}

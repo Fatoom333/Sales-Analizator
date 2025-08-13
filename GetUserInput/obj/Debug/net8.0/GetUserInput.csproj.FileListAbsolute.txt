@@ -1,0 +1,12 @@
+C:\Users\wolfy\RiderProjects\Project_4\GetUserInput\bin\Debug\net8.0\GetUserInput.deps.json
+C:\Users\wolfy\RiderProjects\Project_4\GetUserInput\bin\Debug\net8.0\GetUserInput.dll
+C:\Users\wolfy\RiderProjects\Project_4\GetUserInput\bin\Debug\net8.0\GetUserInput.pdb
+C:\Users\wolfy\RiderProjects\Project_4\GetUserInput\obj\Debug\net8.0\GetUserInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wolfy\RiderProjects\Project_4\GetUserInput\obj\Debug\net8.0\GetUserInput.AssemblyInfoInputs.cache
+C:\Users\wolfy\RiderProjects\Project_4\GetUserInput\obj\Debug\net8.0\GetUserInput.AssemblyInfo.cs
+C:\Users\wolfy\RiderProjects\Project_4\GetUserInput\obj\Debug\net8.0\GetUserInput.csproj.CoreCompileInputs.cache
+C:\Users\wolfy\RiderProjects\Project_4\GetUserInput\obj\Debug\net8.0\GetUserInput.dll
+C:\Users\wolfy\RiderProjects\Project_4\GetUserInput\obj\Debug\net8.0\refint\GetUserInput.dll
+C:\Users\wolfy\RiderProjects\Project_4\GetUserInput\obj\Debug\net8.0\GetUserInput.pdb
+C:\Users\wolfy\RiderProjects\Project_4\GetUserInput\obj\Debug\net8.0\ref\GetUserInput.dll
+C:\Users\wolfy\RiderProjects\Project_4\GetUserInput\obj\Debug\net8.0\GetUserInput.csproj.AssemblyReference.cache
