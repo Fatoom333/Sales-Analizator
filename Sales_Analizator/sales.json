@@ -1,0 +1,284 @@
+{
+  "sales": [
+    {
+      "transactionID": 692837526,
+      "date": "17.07.2012",
+      "productID": 340623785,
+      "name": "avocado",
+      "amount": 2,
+      "price": {
+        "RUB": 1500
+      },
+      "total": {
+        "RUB": 3000
+      },
+      "region": "Мексика"
+    },
+    {
+      "transactionID": 583920174,
+      "date": "05.09.2018",
+      "productID": 735982146,
+      "name": "banana",
+      "amount": 6,
+      "price": {
+        "RUB": 50
+      },
+      "total": {
+        "RUB": 300
+      },
+      "region": "Эквадор"
+    },
+    {
+      "transactionID": 419857632,
+      "date": "23.11.2015",
+      "productID": 128349576,
+      "name": "apple",
+      "amount": 8,
+      "price": {
+        "RUB": 60
+      },
+      "total": {
+        "RUB": 480
+      },
+      "region": "Китай"
+    },
+    {
+      "transactionID": 738291645,
+      "date": "12.02.2022",
+      "productID": 482719365,
+      "name": "orange",
+      "amount": 10,
+      "price": {
+        "RUB": 80
+      },
+      "total": {
+        "RUB": 800
+      },
+      "region": "Испания"
+    },
+    {
+      "transactionID": 592837416,
+      "date": "29.06.2020",
+      "productID": 749302856,
+      "name": "mango",
+      "amount": 3,
+      "price": {
+        "RUB": 200
+      },
+      "total": {
+        "RUB": 600
+      },
+      "region": "Индия"
+    },
+    {
+      "transactionID": 851392640,
+      "date": "10.03.2013",
+      "productID": 164839752,
+      "name": "pineapple",
+      "amount": 3,
+      "price": {
+        "RUB": 320
+      },
+      "total": {
+        "RUB": 960
+      },
+      "region": "Филиппины"
+    },
+    {
+      "transactionID": 327819045,
+      "date": "22.07.2017",
+      "productID": 908172345,
+      "name": "grape",
+      "amount": 5,
+      "price": {
+        "RUB": 120
+      },
+      "total": {
+        "RUB": 600
+      },
+      "region": "Франция"
+    },
+    {
+      "transactionID": 548392017,
+      "date": "03.11.2019",
+      "productID": 472190385,
+      "name": "kiwi",
+      "amount": 7,
+      "price": {
+        "RUB": 150
+      },
+      "total": {
+        "RUB": 1050
+      },
+      "region": "Новая Зеландия"
+    },
+    {
+      "transactionID": 769305218,
+      "date": "15.06.2014",
+      "productID": 657293801,
+      "name": "watermelon",
+      "amount": 1,
+      "price": {
+        "RUB": 400
+      },
+      "total": {
+        "RUB": 400
+      },
+      "region": "Турция"
+    },
+    {
+      "transactionID": 430198572,
+      "date": "27.08.2021",
+      "productID": 583920167,
+      "name": "peach",
+      "amount": 4,
+      "price": {
+        "RUB": 110
+      },
+      "total": {
+        "RUB": 440
+      },
+      "region": "Италия"
+    },
+    {
+      "transactionID": 217958364,
+      "date": "08.04.2016",
+      "productID": 369284751,
+      "name": "strawberry",
+      "amount": 10,
+      "price": {
+        "RUB": 90
+      },
+      "total": {
+        "RUB": 900
+      },
+      "region": "Польша"
+    },
+    {
+      "transactionID": 650293781,
+      "date": "12.12.2020",
+      "productID": 182736495,
+      "name": "blueberry",
+      "amount": 8,
+      "price": {
+        "RUB": 250
+      },
+      "total": {
+        "RUB": 2000
+      },
+      "region": "Канада"
+    },
+    {
+      "transactionID": 783921645,
+      "date": "19.05.2015",
+      "productID": 394857201,
+      "name": "pear",
+      "amount": 6,
+      "price": {
+        "RUB": 70
+      },
+      "total": {
+        "RUB": 420
+      },
+      "region": "Чили"
+    },
+    {
+      "transactionID": 594182736,
+      "date": "11.01.2018",
+      "productID": 587123649,
+      "name": "plum",
+      "amount": 7,
+      "price": {
+        "RUB": 65
+      },
+      "total": {
+        "RUB": 455
+      },
+      "region": "Сербия"
+    },
+    {
+      "transactionID": 920384761,
+      "date": "30.09.2023",
+      "productID": 761839204,
+      "name": "cherry",
+      "amount": 3,
+      "price": {
+        "RUB": 350
+      },
+      "total": {
+        "RUB": 1050
+      },
+      "region": "США"
+    },
+    {
+      "transactionID": 314159265,
+      "date": "14.10.2021",
+      "productID": 271828182,
+      "name": "smartphone",
+      "amount": 1,
+      "price": {
+        "RUB": 35000
+      },
+      "total": {
+        "RUB": 35000
+      },
+      "region": "Китай"
+    },
+    {
+      "transactionID": 456789123,
+      "date": "21.03.2023",
+      "productID": 654321987,
+      "name": "laptop",
+      "amount": 1,
+      "price": {
+        "RUB": 70000
+      },
+      "total": {
+        "RUB": 70000
+      },
+      "region": "США"
+    },
+    {
+      "transactionID": 234567891,
+      "date": "09.07.2019",
+      "productID": 345678912,
+      "name": "coffee machine",
+      "amount": 1,
+      "price": {
+        "RUB": 15000
+      },
+      "total": {
+        "RUB": 15000
+      },
+      "region": "Германия"
+    },
+    {
+      "transactionID": 876543219,
+      "date": "05.11.2016",
+      "productID": 987654312,
+      "name": "book",
+      "amount": 1,
+      "price": {
+        "RUB": 500
+      },
+      "total": {
+        "RUB": 500
+      },
+      "region": "Великобритания"
+    },
+    {
+      "transactionID": 192837465,
+      "date": "17.08.2020",
+      "productID": 564738291,
+      "name": "headphones",
+      "amount": 1,
+      "price": {
+        "RUB": 8000
+      },
+      "total": {
+        "RUB": 8000
+      },
+      "region": "Южная Корея"
+    }
+  ]
+}
